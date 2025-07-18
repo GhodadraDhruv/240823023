@@ -1,7 +1,7 @@
 // console.log("Hello World")
 
 // 1.Check Even or Odd
-// const num = 7
+// const num = 11
 // if (num % 2 === 0){
 //     console.log(`${num} is even number`);
 // }else{
